@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Estou em busca da minha primeira oportunidade de emprego como Engenheiro de confiabilidade do site (SRE).</p>
+<p align="center">Estou em busca da minha primeira oportunidade de emprego como (SRE) Engenheiro de confiabilidade de site.</p>
 
 ###
 
