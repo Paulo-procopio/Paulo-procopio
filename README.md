@@ -107,3 +107,4 @@
 </div>
 
 ###
+# ![snake gif](https://github.com/paulo-procopio/paulo-procopio/blob/output/github-contribution-grid-snake.gif)
