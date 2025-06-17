@@ -16,13 +16,6 @@
 
 <p align="center">Olá 👋, meu nome é Paulo ! Um entusiasta de tecnologia e formado em Engenharia da Computação</p>
 
-###
-
-<p align="center">Estou em busca da minha primeira oportunidade de emprego como (SRE) Engenheiro de confiabilidade de site.</p>
-
-###
-
-
 
 
 <p align="left">SO</p>
